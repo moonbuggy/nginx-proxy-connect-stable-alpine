@@ -1,6 +1,12 @@
 .idea
-.git
-.gitignore
-.github
 README.md
 *.iml
+.build_data
+.git*
+.dockerignore
+*.md
+Dockerfile*
+hooks
+arch.yaml
+build.sh
+build.conf
